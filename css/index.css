@@ -159,7 +159,12 @@
         font-size: 20px;
       }
 
-      .logo {
+       .logo {
+         width: 480px;
+         float: left;
+       }
+
+      .logo-redirect {
         width: 40%;
         display: block;
         margin: 0 auto;
@@ -266,10 +271,6 @@
       }
 
       @media screen and (max-width: 460px) {
-
-        .centered-redirect {
-          width: 100%;
-        }
 
         .footer-right {
           padding-right: 30px;
