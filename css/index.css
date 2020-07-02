@@ -267,6 +267,10 @@
 
       @media screen and (max-width: 460px) {
 
+        .centered-redirect {
+          width: 100%;
+        }
+
         .footer-right {
           padding-right: 30px;
           padding-left: 30px;
