@@ -90,6 +90,14 @@
         font-size: 20px;
       }
 
+      .centered-redirect {
+        width: 40%;
+        display: block;
+        margin: 0 auto;
+        max-width: 500px;
+        margin-top: 20px;
+      }
+
       .storeLinks {
         align-items: center;
         text-align: center;
@@ -152,9 +160,10 @@
       }
 
       .logo {
-        width: 480px;
+        width: 40%;
         display: block;
         margin: 0 auto;
+        max-width: 500px;
       }
 
       .logo-top {
@@ -230,10 +239,6 @@
           margin-top: 8%;
         }
 
-        .logo {
-          width: 300px;
-        }
-
         .mailto {
           padding-left: 25px;
         }
@@ -282,6 +287,10 @@
           padding: 10px;
         }
 
+        .logo {
+          width: 80%;
+        }
+
         .social_icon img {
           width: 35px;
         }
@@ -297,10 +306,6 @@
 
         .logo-text {
           margin-top: 16px;
-        }
-
-        .logo {
-          width: 250px;
         }
 
         .logo-top {
